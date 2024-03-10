@@ -1,1 +1,1 @@
-## Utilizando Teste exploratório para encontrar Bugs no E-Commerce da Ebac
+## Teste exploratório para encontrar Bugs no E-Commerce da Ebac
